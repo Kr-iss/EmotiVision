@@ -1,0 +1,26 @@
+# Private face images
+face_data/
+
+# Trained face recognition model
+emotivision_model.yml
+
+# Identity labels
+labels.json
+
+# Personal contact information
+contacts.csv
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.log
